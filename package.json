@@ -1,6 +1,6 @@
 {
   "name": "udacifitness-calendar-fix",
-  "version": "10.0.0",
+  "version": "10.1.0",
   "main": "src/index.js",
   "description": "Fork of Wix's react-native-calendars because my use case is a 1 off and doesn't make sense for core.",
   "repository": {
@@ -14,11 +14,11 @@
   "license": "MIT",
   "dependencies": {
     "deprecated-react-native-listview": "^0.0.6",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.7.2",
     "xdate": "^0.8.0"
   },
   "devDependencies": {
-    "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0"
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
   }
 }

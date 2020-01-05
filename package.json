@@ -1,16 +1,16 @@
 {
-  "name": "udacifitness-calendar",
+  "name": "udacifitness-calendar-fix",
   "version": "10.0.0",
   "main": "src/index.js",
   "description": "Fork of Wix's react-native-calendars because my use case is a 1 off and doesn't make sense for core.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tylermcginnis/react-native-calendars"
+    "url": "git+https://github.com/carlosloureda/react-native-calendars"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "author": "Fork of component from Wix.com",
+  "author": "Fork of component Udacititness-app",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.10",
